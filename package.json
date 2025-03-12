@@ -1,0 +1,23 @@
+{
+  "name": "code-basic-ts",
+  "version": "1.0.0",
+  "description": "solutions of the code-basic-ts",
+  "homepage": "https://github.com/IamBigBobby/code-basic-ts#readme",
+  "bugs": {
+    "url": "https://github.com/IamBigBobby/code-basic-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamBigBobby/code-basic-ts.git"
+  },
+  "license": "ISC",
+  "author": "Denis Svetleishii",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
